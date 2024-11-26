@@ -1,6 +1,3 @@
-Here’s the updated version with the new LinkedIn URL:
-
----
 
 # Unlocking Data Insights with AWS QuickSight and Amazon S3
 
@@ -8,7 +5,6 @@ In today's data-driven world, transforming raw information into actionable insig
 
 This README summarizes the steps from the [full article](https://medium.com/@bhargav.dev01/visualizing-insights-with-aws-quicksight-a916b94f9b59), authored by [Bhargav Chitteti](https://www.linkedin.com/in/bhargav-chitteti).
 
----
 
 ## Prerequisites
 
@@ -56,5 +52,3 @@ AWS QuickSight, integrated with Amazon S3, simplifies cloud-based data analysis 
 For a detailed walkthrough, check out the full blog post: [Unleash the Power of Data: Visualizing Insights with AWS QuickSight](https://medium.com/@bhargav.dev01/visualizing-insights-with-aws-quicksight-a916b94f9b59).
 
 --- 
-
-This version now includes the updated LinkedIn URL: [Bhargav Chitteti](https://www.linkedin.com/in/bhargav-chitteti).
