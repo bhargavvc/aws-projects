@@ -33,7 +33,7 @@ Explore the diverse range of projects featured in this portfolio:
 
 - **Description:** Cretating a CI- CD pipeline on AWS using AWS CodePipeline
 - **Technologies Used:** AWS CodePipeline, GitHub.
-- [Link to Project README](/CI-CD%20Pipeline/README.md)
+- [Link to Project README](/ci-cd-pipeline/README.md)
 
 ### Project 4: Scheduling EC2 Instances for Off-Hours
 
