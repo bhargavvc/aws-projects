@@ -27,19 +27,19 @@ Explore the diverse range of projects featured in this portfolio:
 
 - **Description:** Hosting a static website on AWS S3.
 - **Technologies Used:** AWS S3.
-- [Link to Project README](/S3%20Static%20Website/README.md)
+- [Link to Project README](/s3-static-website/README.md)
 
 ### Project 3: CI-CD on AWS
 
 - **Description:** Cretating a CI- CD pipeline on AWS using AWS CodePipeline
-- **Technologies Used:** AWS CodePipeline, GitHub.
+- **Technologies Used:** AWS CodePipeline, GitHub, Elastic BeanStalk.
 - [Link to Project README](/ci-cd-pipeline/README.md)
 
 ### Project 4: Scheduling EC2 Instances for Off-Hours
 
 - **Description:** Starting and stopping EC2 instances based on a time schedule, including IaC
-- **Technologies Used:** AWS Lambda, AWS EventBridge, AWS EC2, AWS IAM, Terraform
-- [Link to Project README](/Lambda/Start-Stop-EC2/README.md)
+- **Technologies Used:** AWS Lambda, AWS EventBridge, AWS EC2, AWS IAM.
+- [Link to Project README](/start-stop-ec2/README.md)
 
 ### Project 5: Serverless Web App Development
 
